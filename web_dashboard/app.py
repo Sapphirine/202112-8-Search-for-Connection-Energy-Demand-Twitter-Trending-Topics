@@ -1,12 +1,11 @@
 import streamlit as st
-import yfinance as yf
 import pandas as pd
 import cufflinks as cf
 import datetime
 import plotly.express as px
 from application_service.BuildingComponents import StreamlitComponent
 
-# Sidebar
+#### SIDEBAR
 
 # Sidebar title
 st.sidebar.markdown('''
@@ -17,13 +16,15 @@ st.write('---')
 
 # Sidebar filters
 st.sidebar.subheader('Query parameters')
-aggregation = st.sidebar.selectbox("Aggregation", ['day', 'hour'])
+aggregation = st.sidebar.selectbox("Aggregation", ['daily', 'hourly', 'weekly', 'monthly', 'yearly'])
 start_date = st.sidebar.date_input("Start date", datetime.date(2021, 1, 1))
 end_date = st.sidebar.date_input("End date", datetime.date(2021, 4, 13))
 ny_areas = ['CAPITL', 'CENTRL', 'DUNWOD', 'GENESE', 'H Q', 'HUD VL', 'LONGIL', 'MHK VL', 'MILLWD', 'N.Y.C.', 'NORTH', 'NPX', 'O H', 'PJM', 'WEST']
 selected_areas = st.sidebar.multiselect("Select part of NY State", ny_areas)
 
 if not selected_areas: selected_areas = ["N.Y.C."]
+
+#### BODY
 
 # App Title
 st.title('''

@@ -21,36 +21,19 @@ class ElectricityLoadResource:
         pass
 
     @classmethod
-    def get_agg_daily(cls, start_date, end_date, areas):
+    def _get_agg_actual_data(cls, start_date, end_date, areas, agg):
+
+        # generate query
         sql_query = f"""
             SELECT
                 zone_name
-                , daily_timestamp AS time_stamp
+                , {agg}_timestamp AS time_stamp
                 , SUM(sum_rtd_actual_load) AS actual_load
-            FROM {DB_NAME}.agg_electricity_load_data_daily 
+            FROM {DB_NAME}.agg_electricity_load_data_{agg}
             WHERE
-                daily_timestamp >= "{start_date}"
-                AND daily_timestamp <= "{end_date}"
-                AND zone_name IN ({', '.join([f"'{i}'" for i in areas])})
-            GROUP BY 1,2
-        """
-
-        res = pd.read_gbq(sql_query)
-
-        return res
-
-    @classmethod
-    def get_agg_hourly(cls, start_date, end_date, areas):
-        sql_query = f"""
-            SELECT
-                zone_name
-                , hour_timestamp AS time_stamp
-                , SUM(sum_rtd_actual_load) AS actual_load
-            FROM {DB_NAME}.agg_electricity_load_data_hourly 
-            WHERE
-                hour_timestamp >= "{start_date}"
-                AND hour_timestamp <= "{end_date}"
-                AND zone_name IN ({', '.join([f"'{i}'" for i in areas])})
+                {agg}_timestamp >= "{start_date}"
+                AND {agg}_timestamp <= "{end_date}"
+                AND zone_name IN ({', '.join([f"'{area}'" for area in areas])})
             GROUP BY 1,2
         """
 
