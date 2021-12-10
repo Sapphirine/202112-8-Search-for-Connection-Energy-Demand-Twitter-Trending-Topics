@@ -1,5 +1,5 @@
 # Specific for this project
-electricity_load_data/
+*_data/
 credentials/
 *.gslides
 *.gdoc
