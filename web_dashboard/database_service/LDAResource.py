@@ -15,23 +15,24 @@ class LDAResource:
         else:
             region_args = ''.join(x for x in areas.lower() if x.isalpha())
         
-        tweets_dir = os.path.abspath('../tweets_data')        
+        tweets_dir = os.path.abspath('../tweets_data')
 
         command = f"""python main.py --start_date='{start_date}' --end_date='{end_date}' --region='{region_args}' --tweet_directory='{tweets_dir}'"""
         
         os.system(command)
 
+        html_file = codecs.open("lda.html", 'r')
+        
+        return html_file.read()
+
 
     @classmethod
     def get_lda_result(cls, start_date, end_date, areas):
         
-        store_dir = os.getcwd()
-        os.chdir('../lda')
+        store_dir = os.path.abspath('../web_dashboard')
+        os.chdir(os.path.abspath('../lda'))
 
-        cls._run_lda(start_date, end_date, areas)
-
-        html_file = codecs.open("lda.html", 'r')
-        html_text = html_file.read()
+        html_text = LDAResource._run_lda(start_date, end_date, areas)
 
         os.chdir(store_dir)
 
