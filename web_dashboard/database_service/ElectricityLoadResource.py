@@ -23,6 +23,11 @@ class ElectricityLoadResource:
     @classmethod
     def _get_agg_actual_data(cls, start_date, end_date, areas, agg):
 
+        if type(areas) == list:
+            args_area = ', '.join([f"'{area}'" for area in areas])
+        else:
+            args_area = f"'{areas}'"
+
         # generate query
         sql_query = f"""
             SELECT
@@ -33,7 +38,7 @@ class ElectricityLoadResource:
             WHERE
                 {agg}_timestamp >= "{start_date}"
                 AND {agg}_timestamp <= "{end_date}"
-                AND zone_name IN ({', '.join([f"'{area}'" for area in areas])})
+                AND zone_name IN ({args_area})
             GROUP BY 1,2
         """
 

@@ -1,9 +1,8 @@
-import pandas as pd
-import datetime as dt
 import plotly.express as px
-import plotly.graph_objs as go
+import streamlit.components.v1 as components
 
 from database_service.ElectricityLoadResource import ElectricityLoadResource
+from database_service.LDAResource import LDAResource
 
 class StreamlitComponent:
     def __init__(self):
@@ -34,3 +33,16 @@ class StreamlitComponent:
         )
 
         return fig
+    
+    @classmethod
+    def lda_html_component(cls, start_date, end_date, areas):
+
+        lda_html = LDAResource.get_lda_result(start_date, end_date, areas)
+        
+        comp = components.html(
+            lda_html,
+            width=1300, height=1000, 
+            scrolling=True
+        )
+
+        return comp
