@@ -53,5 +53,10 @@ st.header('**Energy Demand Trend**')
 st.plotly_chart(fig)
 
 # Show LDA Vis
+@st.cache(suppress_st_warning=True, show_spinner=True, allow_output_mutation=True)
+def load_lda(start_date, end_date, ny_areas):
+    html_comp = StreamlitComponent.lda_html_component(start_date, end_date, ny_areas)
+    return html_comp
+
 st.header('**Interesting Topics from LDA**')
-StreamlitComponent.lda_html_component(start_date, end_date, selected_areas)
+load_lda(start_date, end_date, selected_areas)
