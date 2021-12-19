@@ -1,5 +1,4 @@
 # Specific for this project
-*_data/
 credentials/
 *.gslides
 *.gdoc

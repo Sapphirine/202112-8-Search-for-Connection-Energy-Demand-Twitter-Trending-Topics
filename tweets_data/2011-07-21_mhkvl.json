@@ -1,0 +1,812 @@
+{
+    "data": [
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T23:56:13.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94193997324615681",
+            "text": "temperature down 98\u00b0F -&gt; 94\u00b0F \u2014 humidity up 43% -&gt; 51% \u2014 wind 16mph -&gt; 13mph \u2014 pressure 29.68in rising"
+        },
+        {
+            "author_id": "190564580",
+            "created_at": "2011-07-21T23:41:49.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94190372707774464",
+            "text": "@xbrifitz what up hoe"
+        },
+        {
+            "author_id": "230051446",
+            "created_at": "2011-07-21T23:06:13.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94181415117266944",
+            "text": "I'm at Saranac Brewery (F.X. Matt Brewing Co.) (830 Varick St, Utica) w/ 5 others http://4sq.com/rmJtcY"
+        },
+        {
+            "author_id": "230051446",
+            "created_at": "2011-07-21T23:05:36.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94181256878751744",
+            "text": "I'm at Polish Community Center (columbia st, Utica) http://4sq.com/r1p1Sh"
+        },
+        {
+            "author_id": "27836812",
+            "created_at": "2011-07-21T20:52:39.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94147799607812097",
+            "text": "@CappyGilmore pace urself it's a long day"
+        },
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T19:48:06.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94131557161385984",
+            "text": "mostly cloudy -&gt; fair \u2014 temperature up 94\u00b0F -&gt; 98\u00b0F \u2014 humidity down 51% -&gt; 43% \u2014 wind 15mph -&gt; 16mph \u2014 pressure 29.66in falling"
+        },
+        {
+            "author_id": "15409607",
+            "created_at": "2011-07-21T19:42:59.000Z",
+            "geo": {
+                "place_id": "70d4a44111ba3c94"
+            },
+            "id": "94130269577162752",
+            "text": "@Juliaahr hee ;) when do you head to Sweden? soon, right?"
+        },
+        {
+            "author_id": "252391804",
+            "created_at": "2011-07-21T19:41:51.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94129984939114496",
+            "text": "16 1/2 hours to SC. Hitting the Charlie O! (@HeheBGail if we have time, I'm gonna convince @hesterkris to stop (cont) http://tl.gd/bseuv8"
+        },
+        {
+            "author_id": "15409607",
+            "created_at": "2011-07-21T19:23:38.000Z",
+            "geo": {
+                "place_id": "70d4a44111ba3c94"
+            },
+            "id": "94125399646273536",
+            "text": "the episodes of cheaters without joey greco are such buzzkills."
+        },
+        {
+            "author_id": "34921066",
+            "created_at": "2011-07-21T19:16:20.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94123561500946432",
+            "text": "#BUF Watertown [Jefferson Co, NY] law enforcement reports NON-TSTM WND DMG at 12:31 PM EDT http://bit.ly/ox1WBh"
+        },
+        {
+            "author_id": "34921066",
+            "created_at": "2011-07-21T19:16:20.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94123561492557824",
+            "text": "#BUF Watertown [Jefferson Co, NY] law enforcement reports NON-TSTM WND DMG at 12:30 PM EDT http://bit.ly/nAAtxg"
+        },
+        {
+            "author_id": "50712221",
+            "created_at": "2011-07-21T19:15:36.000Z",
+            "geo": {
+                "place_id": "deeb1ed3497c7dfd"
+            },
+            "id": "94123376636989440",
+            "text": "Debris on Rdway on I-90 - NYS Thrwy west btw ex 33 (I-90) - Verona (Rte 365) and ex 34 (I-90) - Canastota (Rte 13) st...http://bit.ly/5rwqNr"
+        },
+        {
+            "author_id": "50706690",
+            "created_at": "2011-07-21T19:15:32.000Z",
+            "geo": {
+                "place_id": "deeb1ed3497c7dfd"
+            },
+            "id": "94123361990492160",
+            "text": "Debris on Rdway on I-90 - NYS Thrwy west btw ex 33 (I-90) - Verona (Rte 365) and ex 34 (I-90) - Canastota (Rte 13) st...http://bit.ly/5Xuc69"
+        },
+        {
+            "author_id": "15409607",
+            "created_at": "2011-07-21T19:05:04.000Z",
+            "geo": {
+                "place_id": "70d4a44111ba3c94"
+            },
+            "id": "94120725887197184",
+            "text": "@THEStaceyFace @aezeum heaven."
+        },
+        {
+            "author_id": "185043056",
+            "created_at": "2011-07-21T18:54:02.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94117951233474560",
+            "text": "Haters gunna hate but ill stay greattt"
+        },
+        {
+            "author_id": "15409607",
+            "created_at": "2011-07-21T18:51:15.000Z",
+            "geo": {
+                "place_id": "70d4a44111ba3c94"
+            },
+            "id": "94117250075865089",
+            "text": "@TobsonHelsinki i cried when they split up.  did i just admit that? whoops..."
+        },
+        {
+            "author_id": "27836812",
+            "created_at": "2011-07-21T18:51:13.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94117242257670145",
+            "text": "Feel honored to get invited to the house of good shepherd tournament Monday with @AlanLeist3 thanks!!"
+        },
+        {
+            "author_id": "102252952",
+            "created_at": "2011-07-21T17:14:02.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94092782255357952",
+            "text": "Zoo Creatures Pay Visit To Massena Library Kids - http://bit.ly/qLkbrP #Watertown #NewYork"
+        },
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T17:07:34.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94091155284836354",
+            "text": "current weather: mostly cloudy \u2014 94\u00b0F \u2014 51% humidity \u2014 wind 15mph \u2014 visibility 10mi \u2014 pressure 29.68in falling"
+        },
+        {
+            "author_id": "23486074",
+            "created_at": "2011-07-21T17:04:33.000Z",
+            "geo": {
+                "place_id": "51a64f7abcbae7e5"
+            },
+            "id": "94090396694626304",
+            "text": "I'm at Otsego Lake (Cooperstown) http://4sq.com/psdhRG"
+        },
+        {
+            "author_id": "57733408",
+            "created_at": "2011-07-21T16:52:46.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94087430952591360",
+            "text": "@Holly_Chisholm Yeah same here! The episodes just seem.to keep getting better and better :)"
+        },
+        {
+            "author_id": "47734777",
+            "created_at": "2011-07-21T16:51:53.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94087208360878080",
+            "text": "@theonlycrazyray ok :) sounds like fun"
+        },
+        {
+            "author_id": "57733408",
+            "created_at": "2011-07-21T16:51:33.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94087127129784320",
+            "text": "@Holly_Chisholm Yeah? Did you like it?"
+        },
+        {
+            "author_id": "17114590",
+            "created_at": "2011-07-21T16:42:19.000Z",
+            "geo": {
+                "place_id": "deeb1ed3497c7dfd"
+            },
+            "id": "94084800691965952",
+            "text": "Tips for Preventing Heat Illnesses http://bit.ly/pUNw8O via http://outside.in/13421"
+        },
+        {
+            "author_id": "57733408",
+            "created_at": "2011-07-21T16:32:16.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94082270897508352",
+            "text": "Totally love this video w/@jennettemccurdy & @LaneNapper and their AMAZING tap skills!!  http://t.co/2x3wNMa One of My Fav Episodes!! :)"
+        },
+        {
+            "author_id": "36885063",
+            "created_at": "2011-07-21T16:25:20.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94080527052705792",
+            "text": "Dying of heat. (@ My Abode.) http://4sq.com/ndfcUY"
+        },
+        {
+            "author_id": "16447199",
+            "created_at": "2011-07-21T16:22:42.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94079863480266752",
+            "text": "I love karma! She's a big fat bitch!"
+        },
+        {
+            "author_id": "16447199",
+            "created_at": "2011-07-21T16:16:10.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94078220613337088",
+            "text": "@Peejers13 i know how you feel. We may have a 2 hour one this afternoon"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T16:07:35.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94076062207721472",
+            "text": "Sobrang lakas ng hangin. Nakakatakot yung ganito."
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T15:59:05.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94073922919743490",
+            "text": "@thejaiedaniel DM &lt;3"
+        },
+        {
+            "author_id": "57733408",
+            "created_at": "2011-07-21T15:46:25.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94070736125313025",
+            "text": "@LaneNapper That is EPIC! They looked like such sweet girls; that must have been such a great experience!! You are.such a great guy Lane! :)"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T15:37:16.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94068433041358848",
+            "text": "@thejaiedaniel Yung ano yung ano Hahaha! Shit lang kadiri yung ano talaga. Hahahaha!"
+        },
+        {
+            "author_id": "15409607",
+            "created_at": "2011-07-21T15:37:07.000Z",
+            "geo": {
+                "place_id": "70d4a44111ba3c94"
+            },
+            "id": "94068392771862528",
+            "text": "visa application finally out of my hands, phew.  starbucks in my hands now.  not going back outside today, it's disgusting."
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T15:34:09.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94067648400338944",
+            "text": "Nakakainis kadiri talaga!"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T15:31:30.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94066980570677248",
+            "text": "@gravityymind Kadiri talaga grabe! Di ako makaget-over dun. Nakaka-err.  Kadiri ano ba yan!"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T15:28:34.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94066242943590400",
+            "text": "@gravityymind Yes. Yun ba yung nasa bowl pa? Shit lang!"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T15:26:00.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94065598010634241",
+            "text": "@gravityymind Ang baboy! Grabe yung nagpost :|"
+        },
+        {
+            "author_id": "190564580",
+            "created_at": "2011-07-21T15:11:26.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94061929412304896",
+            "text": "It was 80 degrees at like 9am. I don't even wanna know what it is now. Is this really utica lol? #heatwave"
+        },
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T15:01:24.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94059404126715905",
+            "text": "fair -&gt; partly cloudy \u2014 temperature up 75\u00b0F -&gt; 87\u00b0F \u2014 humidity down 84% -&gt; 59% \u2014 pressure 29.71in falling"
+        },
+        {
+            "author_id": "36885063",
+            "created_at": "2011-07-21T14:17:05.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94048254748131329",
+            "text": "Gettin my teefies cleaned.. (@ Watertown Dental Health Group) http://4sq.com/oxW3B1"
+        },
+        {
+            "author_id": "102252952",
+            "created_at": "2011-07-21T13:24:18.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94034969571233792",
+            "text": "Ace helps golfer win Ironwood member-guest for seventh time - http://bit.ly/pSR6Rp #DeRuyter #NewYork"
+        },
+        {
+            "author_id": "257590052",
+            "created_at": "2011-07-21T13:22:25.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94034496726380544",
+            "text": "Cartoons & still cute :) http://t.co/CL9tof8"
+        },
+        {
+            "author_id": "47734777",
+            "created_at": "2011-07-21T13:02:18.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94029433647808512",
+            "text": "@theonlycrazyray I get to visit rodney YAY me lol"
+        },
+        {
+            "author_id": "257590052",
+            "created_at": "2011-07-21T12:37:41.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94023239700987904",
+            "text": "Bags r packed :( sad to leave....can't wait 2 c u again, I know it'll be soon :)"
+        },
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T11:59:29.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "94013623671865344",
+            "text": "temperature up 72\u00b0F -&gt; 75\u00b0F \u2014 humidity down 87% -&gt; 84% \u2014 wind 0mph -&gt; 7mph \u2014 pressure 29.74in falling"
+        },
+        {
+            "author_id": "47734777",
+            "created_at": "2011-07-21T11:29:12.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "94006003032535040",
+            "text": "@SicLikeSarah I don't think so :( my cousin is getting married the same day, I have your ticket though"
+        },
+        {
+            "author_id": "17114590",
+            "created_at": "2011-07-21T10:11:59.000Z",
+            "geo": {
+                "place_id": "deeb1ed3497c7dfd"
+            },
+            "id": "93986573540003840",
+            "text": "Troopers Warn of Hoax E-mail http://bit.ly/mT777C via http://outside.in/13421"
+        },
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T09:44:48.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93979732433043456",
+            "text": "current weather: fair \u2014 72\u00b0F \u2014 87% humidity \u2014 wind 0mph \u2014 visibility 6mi \u2014 pressure 29.75in falling"
+        },
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T09:41:04.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93978792963489792",
+            "text": "5:38am: sunrise \u2014 sunset will be at 8:34pm \u2014 today's forecast: partly cloudy, 98/71\u00b0F \u2014 tomorrow: fair, 93/64\u00b0F"
+        },
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T08:21:53.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93958863392481280",
+            "text": "temperature down 73\u00b0F -&gt; 71\u00b0F \u2014 humidity up 84% -&gt; 90% \u2014 wind 0mph -&gt; 5mph \u2014 pressure 29.76in falling"
+        },
+        {
+            "author_id": "102252952",
+            "created_at": "2011-07-21T07:30:01.000Z",
+            "geo": {
+                "place_id": "deeb1ed3497c7dfd"
+            },
+            "id": "93945812954001409",
+            "text": "OIN Greenlights First Theatrical Film - http://bit.ly/mRBBDz #Oneida #NewYork"
+        },
+        {
+            "author_id": "17082375",
+            "created_at": "2011-07-21T06:12:39.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93926339584851968",
+            "text": "Watertown city manager will decide on Godsmack concert http://bit.ly/rfKYas via http://outside.in/13601"
+        },
+        {
+            "author_id": "17082375",
+            "created_at": "2011-07-21T06:12:38.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93926339035406336",
+            "text": "Cleanup job finished on Ward Street home in Watertown http://bit.ly/odYKxQ via http://outside.in/13601"
+        },
+        {
+            "author_id": "17082375",
+            "created_at": "2011-07-21T06:12:38.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93926337991028736",
+            "text": "Catholic Charities office in Watertown moves http://bit.ly/q2GCbl via http://outside.in/13601"
+        },
+        {
+            "author_id": "17082375",
+            "created_at": "2011-07-21T06:12:38.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93926335096958976",
+            "text": "Planet Fitness opens in Watertown, NY: Be careful of anti-fitness gym. http://bit.ly/pkoqbe via http://outside.in/13601"
+        },
+        {
+            "author_id": "102252952",
+            "created_at": "2011-07-21T05:05:30.000Z",
+            "geo": {
+                "place_id": "70d4a44111ba3c94"
+            },
+            "id": "93909443158351873",
+            "text": "Despite Recession, Local Guitar Teacher Keeps the Music Going - http://bit.ly/n5mWlU #PortJefferson #NewYork"
+        },
+        {
+            "author_id": "281745482",
+            "created_at": "2011-07-21T04:46:07.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93904562494259201",
+            "text": "Fck Everybody!!"
+        },
+        {
+            "author_id": "334002829",
+            "created_at": "2011-07-21T04:25:08.000Z",
+            "geo": {
+                "place_id": "51a64f7abcbae7e5"
+            },
+            "id": "93899281781620737",
+            "text": "ER was crushed tonight. #masshumanitysuxforus"
+        },
+        {
+            "author_id": "23486074",
+            "created_at": "2011-07-21T04:18:43.000Z",
+            "geo": {
+                "place_id": "51a64f7abcbae7e5"
+            },
+            "id": "93897669172396032",
+            "text": "I'm at Fieldstone Farm (201 Roses Hill Road, Richfield Springs) w/ 2 others http://4sq.com/oSRdf2"
+        },
+        {
+            "author_id": "57733408",
+            "created_at": "2011-07-21T04:17:35.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93897383443824640",
+            "text": "@kimskey Continuing to pray for good news :)"
+        },
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T03:52:20.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93891028213444608",
+            "text": "temperature down 82\u00b0F -&gt; 73\u00b0F \u2014 humidity up 62% -&gt; 84% \u2014 pressure 29.81in rising"
+        },
+        {
+            "author_id": "27457543",
+            "created_at": "2011-07-21T03:40:09.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93887964945457153",
+            "text": "50,000 people used to live here... heard so many times I can't believe I forgot it #goodoldays #shootinbadguys"
+        },
+        {
+            "author_id": "27457543",
+            "created_at": "2011-07-21T03:38:26.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93887532189757442",
+            "text": "@pAuLiE_bRuZ what do you want for Starlin Castro now that you got two SS?"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T03:22:55.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93883627036872705",
+            "text": "@kntcstii Ayan din nasa isip ko nung araw na nakabili na ng ticket. Hahahahaha! Pero wala ams maganda parin yung napanuod mo kahit alam na."
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T03:22:17.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93883468555100160",
+            "text": "@marabeyb Sows. So masaya na pag nagpapabutas? Hahaha! Cheerup naaaa."
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T03:14:21.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93881470178959361",
+            "text": "@marabeyb Kahit ishare ko to sayo alam kong di tatalab. Wag ka lang magmukmok palagi, tulungan mo din sarili mo matatapos din yan &gt;:D&lt;"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T03:10:29.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93880497863786496",
+            "text": "@marabeyb Wala naman. Masayahin lang talaga akong tao. HAHAHAHAHA"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T03:01:26.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93878218775465985",
+            "text": "@marabeyb Hindi ko gusto yung C.phone e. Pero ewan ko sayo hahaha"
+        },
+        {
+            "author_id": "15409607",
+            "created_at": "2011-07-21T02:58:54.000Z",
+            "geo": {
+                "place_id": "70d4a44111ba3c94"
+            },
+            "id": "93877582994489345",
+            "text": "massive scramble to fix visa related things, will be overnighting my application instead of going in tomorrow. $150 extra, fab."
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T02:58:50.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93877566561198080",
+            "text": "@marabeyb Dami daming phone e, kahit ano."
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T02:45:03.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93874095271329792",
+            "text": "@marabeyb Uh? Bakit nasa Pinas knba? Haahaha"
+        },
+        {
+            "author_id": "27836812",
+            "created_at": "2011-07-21T02:42:30.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93873455396700160",
+            "text": "@TigerWoods i am available to caddie for you If u would like.... Inbox me to discuss details #numberonefan"
+        },
+        {
+            "author_id": "102252952",
+            "created_at": "2011-07-21T02:40:33.000Z",
+            "geo": {
+                "place_id": "deeb1ed3497c7dfd"
+            },
+            "id": "93872965464236032",
+            "text": "Parents search for answers after 6-year-old's death - http://bit.ly/nuYC0W #Sherrill #NewYork"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T02:32:59.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93871058997878784",
+            "text": "@marabeyb Ay hindi. Hahaha! Plain fone nga lang e. For call and texting lang talaa siya."
+        },
+        {
+            "author_id": "16988575",
+            "created_at": "2011-07-21T02:31:03.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93870572987088896",
+            "text": "Certified Nursing Assistant - #Watertown , NY (http://tinyurl.com/3db82e6) Get Psychiatry Jobs #Psychiatry #jobs #job #GetAllJobs"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T02:26:11.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93869348569096192",
+            "text": "@marabeyb Hindi ko alam anong unit yun e. Pero plain fone lang naman siya, hindi colored, walang camera, natural na Nokia lang. Bakit?"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T02:13:49.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93866237012086785",
+            "text": "Na-LSS ako sa My Moment ni Rebecca Black. Hahahahahahahaha!"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T01:48:06.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93859765985353728",
+            "text": "Yung mga mag-eexam ng Chem, Algebra at trigo. Tapos walang dalang calcu. Ay!"
+        },
+        {
+            "author_id": "204780178",
+            "created_at": "2011-07-21T01:42:07.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93858257558437888",
+            "text": "Stop motion video soon~ :)"
+        },
+        {
+            "author_id": "17140815",
+            "created_at": "2011-07-21T01:18:28.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93852306336006145",
+            "text": "I'm at House Of Nine Ball (912 South St, Utica) http://4sq.com/owA1mM"
+        },
+        {
+            "author_id": "257590052",
+            "created_at": "2011-07-21T01:08:17.000Z",
+            "geo": {
+                "place_id": "d4930fd3a1388ef1"
+            },
+            "id": "93849744559968256",
+            "text": "In the bed cuddling with my #1 :)"
+        },
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T00:51:30.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93845519490756608",
+            "text": "current weather: fair \u2014 82\u00b0F \u2014 62% humidity \u2014 wind 0mph \u2014 visibility 8mi \u2014 pressure 29.78in falling"
+        },
+        {
+            "author_id": "125836761",
+            "created_at": "2011-07-21T00:30:04.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93840128467927040",
+            "text": "temperature down 89\u00b0F -&gt; 82\u00b0F \u2014 humidity up 50% -&gt; 62% \u2014 wind 13mph -&gt; 0mph \u2014 pressure 29.78in falling"
+        },
+        {
+            "author_id": "17259906",
+            "created_at": "2011-07-21T00:19:15.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93837404791779328",
+            "text": "Calling all athletes! Get 15% off Hammer Nutrition products. Just use 187143 under referral for your first order.  Good and natural."
+        },
+        {
+            "author_id": "216853867",
+            "created_at": "2011-07-21T00:09:55.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93835058183553024",
+            "text": "Having a horrible freaking day."
+        },
+        {
+            "author_id": "17259906",
+            "created_at": "2011-07-21T00:07:46.000Z",
+            "geo": {
+                "place_id": "41f575b7eebcd4b7"
+            },
+            "id": "93834516971532288",
+            "text": "@TrannonCulinary great products! Thanks for the follow."
+        }
+    ],
+    "includes": {
+        "places": [
+            {
+                "country_code": "US",
+                "full_name": "Utica, NY",
+                "id": "41f575b7eebcd4b7"
+            },
+            {
+                "country_code": "US",
+                "full_name": "Port Jefferson, NY",
+                "id": "70d4a44111ba3c94"
+            },
+            {
+                "country_code": "US",
+                "full_name": "Watertown, NY",
+                "id": "d4930fd3a1388ef1"
+            },
+            {
+                "country_code": "US",
+                "full_name": "Oneida, NY",
+                "id": "deeb1ed3497c7dfd"
+            },
+            {
+                "country_code": "US",
+                "full_name": "Otsego, NY",
+                "id": "51a64f7abcbae7e5"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "94193997324615681",
+        "oldest_id": "93834516971532288",
+        "result_count": 86
+    }
+}
