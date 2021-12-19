@@ -38,6 +38,12 @@ Our Question: _Can Twitter activity formulated into topics be linked in a causal
 
 ## Notebooks
 
+1. 00-data-collection-electricity_load.ipynb
+2. 10-modelling-fbprophet.ipynb
+3. 11-evaluate-model.ipynb
+4. 12-forecast_results_charts.ipynb
+5. GET_Tweets.ipynb in "Full Archive Tweets Search" folder
+
 ## Source Codes
 
 ### LDA
