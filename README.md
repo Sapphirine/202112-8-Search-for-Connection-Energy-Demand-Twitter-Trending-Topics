@@ -40,10 +40,10 @@ gcloud dataproc clusters create jupyter-cluster \
 5. Collecting Electricity Load Data from NYISO:
     1. Open the notebook titled `00-data-collection-electricity_load.ipynb` in GCloud Dataproc
     2. Change the default constants:
-        1. BUCKET_NAME -> use the created Cloud Storage Bucket from step 2.1
-        2. PROJECT_BUCKET -> use the folder from step 2.2
-        3. FOLDER_NAME -> use the first folder from step 2.3.1
-        4. BIG_QUERY_TABLE_NAME -> use the dataset created from step 3
+        1. `BUCKET_NAME` -> use the created Cloud Storage Bucket from step 2.1
+        2. `PROJECT_BUCKET` -> use the folder from step 2.2
+        3. `FOLDER_NAME` -> use the first folder from step 2.3.1
+        4. `BIG_QUERY_TABLE_NAME` -> use the dataset created from step 3
     3. Change the period in the cell for iterating the years and months
         1. Change start end year of for loop
         2. Change start end month of for loop
@@ -53,10 +53,10 @@ gcloud dataproc clusters create jupyter-cluster \
 6. Time Series Forecasting:
     1. Open the notebook titled `10-modelling-fbprophet.ipynb` in GCloud Dataproc
     2. Change the default constants:
-        1. BUCKET_NAME -> use the same bucket name from step 5.2.1
-        2. PROJECT_BUCKET -> use the same folder name from step 5.2.2
-        3. FOLDER_NAME -> use the second folder from step 2.3.2
-        4. BIG_QUERY_TABLE_NAME -> use the dataset created from step 5 -> use the hourly table
+        1. `BUCKET_NAME` -> use the same bucket name from step 5.2.1
+        2. `PROJECT_BUCKET` -> use the same folder name from step 5.2.2
+        3. `FOLDER_NAME` -> use the second folder from step 2.3.2
+        4. `BIG_QUERY_TABLE_NAME` -> use the dataset created from step 5 -> use the hourly table
     3. Run all the cells in the notebook
         1. We have uploaded the forecast results data under folder `forecast_data` in this repo
 7. Evaluate Forecast and Identify Critical Dates:
